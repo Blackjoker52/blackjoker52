@@ -1,15 +1,14 @@
 <!-- ## 👋 Hi, I'm Zishan -->
 # Hi there, I'm Zishan 👋
 
+### 👨‍💻 About Me
 I'm a **17-year-old full stack web developer**.  
 With a **5-⭐ rating on Fiverr**, I specialize in building robust and scalable web applications using modern technologies.
 
 ![Fiverr 5-Star Rating](https://img.shields.io/badge/Fiverr%20Rating-4.9⭐-brightgreen?style=for-the-badge&logo=fiverr&logoColor=white)
 ![Orders Completed](https://img.shields.io/badge/Orders%20Completed-20%2B-blue?style=for-the-badge)
 
-![Profile Views](https://komarev.com/ghpvc/?username=zishankadri&color=brightgreen)
-
-## 🛠️ My Skills
+### 🛠️ My Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black)
